@@ -6,4 +6,4 @@ Attemps of making OS for Raspberry Pi Pico W
 * MicroSD Card Module
 
 # Reason of Pico W/2W usage:
-  PicOS will be use Wi-Fi to get Time(Later updates)
+  PicOS will use Wi-Fi to get Time(Later updates)
